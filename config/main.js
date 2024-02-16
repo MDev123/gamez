@@ -5,7 +5,6 @@ var sitename = "ezGamez"; // Change this to change the name of your website.
 // more settings in main.css
 
 // END CONFIG
-import "/./config/custom.js";
 // import "https://nativegames.net/media/nativescript.js";
 var serverUrl1 = "https://assets-taupe.vercel.app";
 var currentPageTitle = document.title;
